@@ -1,5 +1,4 @@
 ---
-title: Mr Anxiety
 layout: home
 ---
 
