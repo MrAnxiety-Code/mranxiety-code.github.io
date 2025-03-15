@@ -1,5 +1,6 @@
 ---
 layout: home
+title: ""
 ---
 
 ## not the title
