@@ -1,1 +1,2 @@
 theme: minima
+include: [projects, project-directory.md]
