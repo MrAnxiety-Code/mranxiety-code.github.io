@@ -1,6 +1,7 @@
 ---
 layout: home
-title: ""
+name: "Home"
+title: null
 ---
 
 ## not the title
