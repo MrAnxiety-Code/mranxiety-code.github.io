@@ -1,2 +1,3 @@
 theme: minima
-include: [projects, project-directory.md]
+minima:
+  skin: dark
