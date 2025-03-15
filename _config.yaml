@@ -5,11 +5,11 @@ github_username: MrAnxiety-Code
 
 theme: minima
 minima:
-  skin: dark
- 	social_links:
-    - title: GitHub
-      icon: github
-      url: "https://github.com/MrAnxiety-Code"
-    - title: Bluesky
-      icon: bluesky
-      url: "https://bsky.app/profile/mranxiety.bsky.social"
+	skin: dark
+	social_links:
+ 		- title: GitHub
+	 		icon: github
+			url: "https://github.com/MrAnxiety-Code"
+	 	- title: Bluesky
+	 		icon: bluesky
+			url: "https://bsky.app/profile/mranxiety.bsky.social"
