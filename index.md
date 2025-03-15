@@ -1,5 +1,6 @@
 ---
 title: Mr Anxiety
+layout: home
 ---
 
 ## not the title
