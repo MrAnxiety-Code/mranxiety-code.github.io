@@ -1,5 +1,5 @@
 ---
-title: Mr Anxiety's GitHub Pages Site
+title: Home
 ---
 
 I'm still building it out, this is just placeholder text.
