@@ -1,11 +1,11 @@
 title: Mr Anxiety
 author: ' '
-description: Mr Anxiety's blog
+description: "Mr Anxiety's blog"
 github_username: MrAnxiety-Code
 
 theme: minima
 minima:
-	skin: dark
+  skin: dark
  	social_links:
     - title: GitHub
       icon: github
