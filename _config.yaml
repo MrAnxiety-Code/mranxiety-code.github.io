@@ -3,3 +3,4 @@ author: ' '
 description: "Mr Anxiety's blog"
 theme: minima
 github_username: MrAnxiety-Code
+show_excerpts: true
