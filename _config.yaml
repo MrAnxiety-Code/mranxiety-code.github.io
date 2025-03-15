@@ -1,5 +1,17 @@
 title: Mr Anxiety
 author: ' '
 description: "Mr Anxiety's blog"
+remote_theme: jekyll/minima
 theme: minima
 github_username: MrAnxiety-Code
+
+minima:
+ 	skin: dark
+ minima:
+ 	social_links:
+ 	 	- title: GitHub
+ 			icon: github
+ 			url: "https://github.com/MrAnxiety-Code"
+ 		- title: Bluesky
+ 			icon: bluesky
+ 			url: "https://bsky.app/profile/mranxiety.bsky.social"
